@@ -1,0 +1,36 @@
+
+10.75	TreeTime.reroot: with method or node: ['Wuhan-Hu-1/2019',
+     	'Wuhan/WH01/2019']
+
+11.21	TreeTime.reroot: with method or node: ['Wuhan-Hu-1/2019',
+     	'Wuhan/WH01/2019']
+
+11.96	WARNING: Previous versions of TreeTime (<0.7.0) RECONSTRUCTED sequences of
+     	tips at positions with AMBIGUOUS bases. This resulted in unexpected
+     	behavior is some cases and is no longer done by default. If you want to
+     	replace those ambiguous sites with their most likely state, rerun with
+     	`reconstruct_tip_states=True` or `--reconstruct-tip-states`.
+
+19.08	TreeTime.reroot: with method or node: ['Wuhan-Hu-1/2019',
+     	'Wuhan/WH01/2019']
+
+22.92	###TreeTime.run: INITIAL ROUND
+
+35.88	TreeTime.reroot: with method or node: ['Wuhan-Hu-1/2019',
+     	'Wuhan/WH01/2019']
+
+36.32	###TreeTime.run: rerunning timetree after rerooting
+
+47.30	###TreeTime.run: ITERATION 1 out of 2 iterations
+
+85.55	###TreeTime.run: ITERATION 2 out of 2 iterations
+
+230.85	###TreeTime.run: FINAL ROUND - confidence estimation via marginal
+      	reconstruction
+
+Inferred a time resolved phylogeny using TreeTime:
+	Sagulenko et al. TreeTime: Maximum-likelihood phylodynamic analysis
+	Virus Evolution, vol 4, https://academic.oup.com/ve/article/4/1/vex042/4794731
+
+updated tree written to results/global/tree.nwk
+node attributes written to results/global/branch_lengths.json
