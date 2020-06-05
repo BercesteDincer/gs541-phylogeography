@@ -1,4 +1,4 @@
-#GS541 Phylogeography Homework
+### GS541 Phylogeography Homework
 
 I wanted to investigate the transmission history for Turkey. Thus, I first started by rebuilding for Europe only. I colored the trees by country as well as setting the geographic resolution to country in order to examine the transmissions in Europe in country level. When I examined the map, I observed that the first cases come from China to Europe and they spread all over Europe rapidly. I also examined the tree and observed a quite big clade coming from United Kingdom which is interesting. United Kingdom seems to have introduced many cases to Europe. I also observed two other clades transmitted from Italy and France. Asia, as expected, is the major source of transmission to Europe. 
 
